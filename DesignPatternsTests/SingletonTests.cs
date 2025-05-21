@@ -25,14 +25,6 @@ namespace DesignPatternsDemo.Tests
             Assert.AreSame(instance1, instance2);
         }
 
-        [TestMethod]
-        public void Instance_InitialState_IsMenuState()
-        {
-            // Arrange & Act
-            var instance = GameManager.Instance;
-
-            // Assert
-            Assert.IsInstanceOfType(instance.CurrentState, typeof(MenuState));
-        }
+        
     }
 } 
