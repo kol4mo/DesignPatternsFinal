@@ -1,0 +1,15 @@
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\bin\Debug\net9.0\DesignPatternsFinal.exe
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\bin\Debug\net9.0\DesignPatternsFinal.deps.json
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\bin\Debug\net9.0\DesignPatternsFinal.runtimeconfig.json
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\bin\Debug\net9.0\DesignPatternsFinal.dll
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\bin\Debug\net9.0\DesignPatternsFinal.pdb
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\obj\Debug\net9.0\DesignPatternsFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\obj\Debug\net9.0\DesignPatternsFinal.AssemblyInfoInputs.cache
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\obj\Debug\net9.0\DesignPatternsFinal.AssemblyInfo.cs
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\obj\Debug\net9.0\DesignPatternsFinal.csproj.CoreCompileInputs.cache
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\obj\Debug\net9.0\DesignPatternsFinal.sourcelink.json
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\obj\Debug\net9.0\DesignPatternsFinal.dll
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\obj\Debug\net9.0\refint\DesignPatternsFinal.dll
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\obj\Debug\net9.0\DesignPatternsFinal.pdb
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\obj\Debug\net9.0\DesignPatternsFinal.genruntimeconfig.cache
+C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsFinal\obj\Debug\net9.0\ref\DesignPatternsFinal.dll
