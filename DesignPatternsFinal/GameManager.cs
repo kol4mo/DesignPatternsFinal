@@ -6,12 +6,14 @@ namespace DesignPatternsDemo
     {
         private static GameManager? instance;
         private static readonly object lockObject = new object();
-        
-        
-        // Private constructor to prevent direct instantiation
-        private GameManager()
+
+		public IGameState CurrentState { get; private set; }
+
+		// Private constructor to prevent direct instantiation
+		private GameManager()
         {
-        }
+			CurrentState = new MenuState();
+		}
         
         public static GameManager Instance
         {
@@ -27,13 +29,22 @@ namespace DesignPatternsDemo
                 return instance;
             }
         }
-        
-        
-        
-        
 
-        // Added for testing purposes
-        public static void Reset()
+
+		public void SetState(IGameState newState) {
+			if (CurrentState != null) {
+				CurrentState.ExitState();
+			}
+			CurrentState = newState;
+			CurrentState.EnterState();
+		}
+
+		public void Update() {
+			CurrentState?.UpdateState();
+		}
+
+		// Added for testing purposes
+		public static void Reset()
         {
             instance = null;
         }
