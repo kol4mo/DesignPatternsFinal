@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1238A5F-8A74-FCC3-E272-D73E3E96D67E}|DesignPatternsTests\\DesignPatternsTests.csproj|c:\\users\\kolten\\source\\repos\\designpatternsfinal\\designpatternstests\\bridgetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1238A5F-8A74-FCC3-E272-D73E3E96D67E}|DesignPatternsTests\\DesignPatternsTests.csproj|solutionrelative:designpatternstests\\bridgetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1238A5F-8A74-FCC3-E272-D73E3E96D67E}|DesignPatternsTests\\DesignPatternsTests.csproj|c:\\users\\kolten\\source\\repos\\designpatternsfinal\\designpatternstests\\designpatternstests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1238A5F-8A74-FCC3-E272-D73E3E96D67E}|DesignPatternsTests\\DesignPatternsTests.csproj|solutionrelative:designpatternstests\\designpatternstests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|c:\\users\\kolten\\source\\repos\\designpatternsfinal\\designpatternsfinal\\characterbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|solutionrelative:designpatternsfinal\\characterbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|c:\\users\\kolten\\source\\repos\\designpatternsfinal\\designpatternsfinal\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|solutionrelative:designpatternsfinal\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|c:\\users\\kolten\\source\\repos\\designpatternsfinal\\designpatternsfinal\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|solutionrelative:designpatternsfinal\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|c:\\users\\kolten\\source\\repos\\designpatternsfinal\\designpatternsfinal\\gamestates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|solutionrelative:designpatternsfinal\\gamestates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1238A5F-8A74-FCC3-E272-D73E3E96D67E}|DesignPatternsTests\\DesignPatternsTests.csproj|c:\\users\\kolten\\source\\repos\\designpatternsfinal\\designpatternstests\\statetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1238A5F-8A74-FCC3-E272-D73E3E96D67E}|DesignPatternsTests\\DesignPatternsTests.csproj|solutionrelative:designpatternstests\\statetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1238A5F-8A74-FCC3-E272-D73E3E96D67E}|DesignPatternsTests\\DesignPatternsTests.csproj|c:\\users\\kolten\\source\\repos\\designpatternsfinal\\designpatternstests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1238A5F-8A74-FCC3-E272-D73E3E96D67E}|DesignPatternsTests\\DesignPatternsTests.csproj|solutionrelative:designpatternstests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|c:\\users\\kolten\\source\\repos\\designpatternsfinal\\designpatternsfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|solutionrelative:designpatternsfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,6 +115,116 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DesignPatternsTests.csproj",
+              "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsTests\\DesignPatternsTests.csproj",
+              "RelativeDocumentMoniker": "DesignPatternsTests\\DesignPatternsTests.csproj",
+              "ToolTip": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsTests\\DesignPatternsTests.csproj",
+              "RelativeToolTip": "DesignPatternsTests\\DesignPatternsTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T00:44:03.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BridgeTests.cs",
+              "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsTests\\BridgeTests.cs",
+              "RelativeDocumentMoniker": "DesignPatternsTests\\BridgeTests.cs",
+              "ToolTip": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsTests\\BridgeTests.cs",
+              "RelativeToolTip": "DesignPatternsTests\\BridgeTests.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:42:10.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterBridge.cs",
+              "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\CharacterBridge.cs",
+              "RelativeDocumentMoniker": "DesignPatternsFinal\\CharacterBridge.cs",
+              "ToolTip": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\CharacterBridge.cs",
+              "RelativeToolTip": "DesignPatternsFinal\\CharacterBridge.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:36:08.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\Singleton.cs",
+              "RelativeDocumentMoniker": "DesignPatternsFinal\\Singleton.cs",
+              "ToolTip": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\Singleton.cs",
+              "RelativeToolTip": "DesignPatternsFinal\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:09:57.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateTests.cs",
+              "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsTests\\StateTests.cs",
+              "RelativeDocumentMoniker": "DesignPatternsTests\\StateTests.cs",
+              "ToolTip": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsTests\\StateTests.cs",
+              "RelativeToolTip": "DesignPatternsTests\\StateTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:05:59.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsTests\\Test1.cs",
+              "RelativeDocumentMoniker": "DesignPatternsTests\\Test1.cs",
+              "ToolTip": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsTests\\Test1.cs",
+              "RelativeToolTip": "DesignPatternsTests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:05:57.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameStates.cs",
+              "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\GameStates.cs",
+              "RelativeDocumentMoniker": "DesignPatternsFinal\\GameStates.cs",
+              "ToolTip": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\GameStates.cs",
+              "RelativeToolTip": "DesignPatternsFinal\\GameStates.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:03:26.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatternsFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\Program.cs",
+              "RelativeToolTip": "DesignPatternsFinal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:55:38.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\GameManager.cs",
+              "RelativeDocumentMoniker": "DesignPatternsFinal\\GameManager.cs",
+              "ToolTip": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\GameManager.cs",
+              "RelativeToolTip": "DesignPatternsFinal\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:34:48.957Z"
             }
           ]
         },

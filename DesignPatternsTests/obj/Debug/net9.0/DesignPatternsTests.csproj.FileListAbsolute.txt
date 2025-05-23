@@ -1,8 +1,6 @@
 C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsTests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_DesignPatternsTests
 C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsTests\obj\Debug\net9.0\DesignPatternsTests.csproj.AssemblyReference.cache
 C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsTests\obj\Debug\net9.0\DesignPatternsTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsTests\obj\Debug\net9.0\DesignPatternsTests.AssemblyInfoInputs.cache
-C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsTests\obj\Debug\net9.0\DesignPatternsTests.AssemblyInfo.cs
 C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsTests\obj\Debug\net9.0\DesignPatternsTests.csproj.CoreCompileInputs.cache
 C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsTests\obj\Debug\net9.0\DesignPatternsTests.sourcelink.json
 C:\Users\kolten\source\repos\DesignPatternsFinal\DesignPatternsTests\bin\Debug\net9.0\testhost.dll
