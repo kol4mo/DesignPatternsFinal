@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|c:\\users\\kolten\\source\\repos\\designpatternsfinal\\designpatternsfinal\\characterbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|solutionrelative:designpatternsfinal\\characterbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|c:\\users\\kolten\\source\\repos\\designpatternsfinal\\designpatternsfinal\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6A86ED2-8542-40AE-51D4-7C62132F2BBD}|DesignPatternsFinal\\DesignPatternsFinal.csproj|solutionrelative:designpatternsfinal\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -107,6 +111,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CharacterBridge.cs",
+              "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\CharacterBridge.cs",
+              "RelativeDocumentMoniker": "DesignPatternsFinal\\CharacterBridge.cs",
+              "ToolTip": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\CharacterBridge.cs",
+              "RelativeToolTip": "DesignPatternsFinal\\CharacterBridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:36:08.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Singleton.cs",
               "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\Singleton.cs",
               "RelativeDocumentMoniker": "DesignPatternsFinal\\Singleton.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StateTests.cs",
               "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsTests\\StateTests.cs",
               "RelativeDocumentMoniker": "DesignPatternsTests\\StateTests.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Test1.cs",
               "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsTests\\Test1.cs",
               "RelativeDocumentMoniker": "DesignPatternsTests\\Test1.cs",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameStates.cs",
               "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\GameStates.cs",
               "RelativeDocumentMoniker": "DesignPatternsFinal\\GameStates.cs",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\Program.cs",
               "RelativeDocumentMoniker": "DesignPatternsFinal\\Program.cs",
@@ -167,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\kolten\\source\\repos\\DesignPatternsFinal\\DesignPatternsFinal\\GameManager.cs",
               "RelativeDocumentMoniker": "DesignPatternsFinal\\GameManager.cs",
