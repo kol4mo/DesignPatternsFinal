@@ -1,40 +1,16 @@
 using System;
 
-namespace DesignPatternsDemo
-{
-    public class GameManager
-    {
-        private static GameManager? instance;
-        private static readonly object lockObject = new object();
-
+namespace DesignPatternsDemo {
+	public class GameManager : SingletonBase<GameManager> {
 		public IGameState CurrentState { get; private set; }
 
-		// Private constructor to prevent direct instantiation
-		private GameManager()
-        {
+		// Private constructor required by SingletonBase
+		private GameManager() {
 			CurrentState = new MenuState();
 		}
-        
-        public static GameManager Instance
-        {
-            get
-            {
-                if (instance == null)
-                {
-                    lock (lockObject)
-                    {
-                        instance ??= new GameManager();
-                    }
-                }
-                return instance;
-            }
-        }
-
 
 		public void SetState(IGameState newState) {
-			if (CurrentState != null) {
-				CurrentState.ExitState();
-			}
+			CurrentState?.ExitState();
 			CurrentState = newState;
 			CurrentState.EnterState();
 		}
@@ -42,11 +18,5 @@ namespace DesignPatternsDemo
 		public void Update() {
 			CurrentState?.UpdateState();
 		}
-
-		// Added for testing purposes
-		public static void Reset()
-        {
-            instance = null;
-        }
-    }
-} 
+	}
+}

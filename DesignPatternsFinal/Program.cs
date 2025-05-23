@@ -14,7 +14,7 @@ namespace DesignPatternsDemo
 			GameManager gameManager = GameManager.Instance;
 			bool isRunning = true;
 			while (isRunning) {
-				Console.Clear();
+				Console.WriteLine();
 				Console.WriteLine("\nCurrent Game State:");
 				gameManager.Update();
 
