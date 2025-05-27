@@ -1,14 +1,19 @@
 ﻿using System;
 
 namespace DesignPatternsDemo {
-	// Implementation Interface: Defines low-level behavior
+	/// <summary>
+	/// Implementation Interface: Defines low-level behavior that can be implemented in different ways
+	/// This is the "implementation" side of the bridge pattern
+	/// </summary>
 	public interface ICharacterBehavior {
 		void Move();
 		void Attack();
 		void Defend();
 	}
 
-	// Concrete Implementations: Implements low-level behavior
+	/// <summary>
+	/// Concrete Implementation: Implements aggressive low-level behavior
+	/// </summary>
 	public class AggressiveBehavior : ICharacterBehavior {
 		public void Move() {
 			Console.WriteLine("Running fast towards enemy");
@@ -23,6 +28,9 @@ namespace DesignPatternsDemo {
 		}
 	}
 
+	/// <summary>
+	/// Concrete Implementation: Implements defensive low-level behavior
+	/// </summary>
 	public class DefensiveBehavior : ICharacterBehavior {
 		public void Move() {
 			Console.WriteLine("Moving cautiously");
@@ -37,16 +45,22 @@ namespace DesignPatternsDemo {
 		}
 	}
 
-	// Abstraction: Defines high-level behavior
+	/// <summary>
+	/// Abstraction: Defines high-level behavior and holds a reference to the implementation
+	/// This is the "abstraction" side of the bridge pattern
+	/// </summary>
 	public abstract class Character {
+		// Bridge: Reference to the implementation
 		protected ICharacterBehavior behavior;
 
 		protected Character(ICharacterBehavior behavior) {
 			this.behavior = behavior;
 		}
 
-		public abstract void Display(); // Abstract method extended by refined abstractions
+		// Abstract method that must be implemented by refined abstractions
+		public abstract void Display();
 
+		// High-level operations that delegate to the implementation
 		public void PerformMove() {
 			behavior.Move();
 		}
@@ -60,7 +74,9 @@ namespace DesignPatternsDemo {
 		}
 	}
 
-	// Refined Abstractions: Extends abstraction behavior
+	/// <summary>
+	/// Refined Abstraction: Extends the abstraction with specific character type behavior
+	/// </summary>
 	public class Barbarian : Character {
 		public Barbarian(ICharacterBehavior behavior) : base(behavior) { }
 
@@ -69,6 +85,9 @@ namespace DesignPatternsDemo {
 		}
 	}
 
+	/// <summary>
+	/// Refined Abstraction: Extends the abstraction with specific character type behavior
+	/// </summary>
 	public class Mage : Character {
 		public Mage(ICharacterBehavior behavior) : base(behavior) { }
 

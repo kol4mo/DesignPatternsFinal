@@ -2,6 +2,9 @@ using System;
 
 namespace DesignPatternsDemo
 {
+    /// <summary>
+    /// State Interface: Defines possible behaviors that all game states must implement
+    /// </summary>
     public interface IGameState
     {
         void EnterState();
@@ -9,6 +12,9 @@ namespace DesignPatternsDemo
         void ExitState();
     }
 
+    /// <summary>
+    /// Concrete State: Implements specific behavior for the menu state
+    /// </summary>
     public class MenuState : IGameState
     {
         public void EnterState()
@@ -27,6 +33,9 @@ namespace DesignPatternsDemo
         }
     }
 
+    /// <summary>
+    /// Concrete State: Implements specific behavior for the playing state
+    /// </summary>
     public class PlayingState : IGameState
     {
         public void EnterState()
@@ -45,6 +54,9 @@ namespace DesignPatternsDemo
         }
     }
 
+    /// <summary>
+    /// Concrete State: Implements specific behavior for the paused state
+    /// </summary>
     public class PausedState : IGameState
     {
         public void EnterState()
@@ -63,6 +75,9 @@ namespace DesignPatternsDemo
         }
     }
 
+    /// <summary>
+    /// Concrete State: Implements specific behavior for the game over state
+    /// </summary>
     public class GameOverState : IGameState
     {
         public void EnterState()
