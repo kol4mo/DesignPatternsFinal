@@ -18,32 +18,13 @@ namespace DesignPatternsDemo.Tests
         }
 
         private TestWriter? testWriter;
-        private TextWriter? originalOutput;
 
         [TestInitialize]
         public void Setup()
         {
             GameManager.Reset(); // Reset game manager to prevent state interference
             testWriter = new TestWriter();
-            originalOutput = Console.Out;
             Console.SetOut(testWriter);
-        }
-
-        [TestCleanup]
-        public void Cleanup()
-        {
-            if (originalOutput != null)
-            {
-                Console.SetOut(originalOutput);
-            }
-            testWriter?.Dispose();
-            GameManager.Reset();
-        }
-
-        [ClassCleanup]
-        public static void ClassCleanup()
-        {
-            GameManager.Reset();
         }
 
         private string GetOutput()
